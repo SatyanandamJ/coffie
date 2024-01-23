@@ -1,0 +1,235 @@
+#navbar{
+    background-color: #b2744c;
+}
+.navbar-nav{
+     margin-left: 50px;
+}
+.nav-item .nav-link{
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.nav-item .nav-link:hover{
+    background: #f7f5f2;
+    border-radius: 5px;
+    color: black;
+}
+#navbar form button{
+    background: black;
+    color: white;
+    border: 2px solid white;
+}
+.bg{
+    width: 100%;
+    height: 100vh;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 88%;
+}
+.content{
+    color: white;
+    position: absolute;
+    top: 50%;
+    text-align: left;
+}
+.About{
+    background-color: antiquewhite;
+}
+.About img{
+    width: 100%;
+}
+.About h1{
+    text-align: center;
+    color: black;
+}
+.About h3{
+    color:black;
+    text-align: center;
+}
+.About p{
+    text-align: justify;
+}
+.Menu{
+    background-color: antiquewhite;
+}
+.Menu h1{
+    text-align: center;
+}
+.Menu p{
+    text-align: center;
+}
+.banner img{
+    width: 100%;
+    
+}
+.card p{
+    text-align: justify;
+}
+.stay {
+    background-color: antiquewhite;
+}
+.stay h2{
+    padding: 20px;
+}
+.stay img{
+    width: 100%;
+    height: 100%;
+}
+.counter{
+    background-color: antiquewhite;
+}
+.counter h2{
+    color: black;
+    text-align: center;
+}
+.counter p{
+    color: black;
+}
+.testimonial{
+    background-color: antiquewhite;
+}
+.testimonial h1{
+    text-align: center;
+}
+.customer img{
+    border-radius: 70%;
+    border: 2px solid;
+}
+.customer h4{
+    text-align: center;
+}
+.footer{
+    background-color: #b2744c;
+}
+.footer h1{
+    text-align:justify;
+}
+.footer p{
+    text-align:justify;
+    color: aliceblue;
+}
+.credits{
+    text-align: center;
+    background-color: #b2744c;
+}
+.credits p{
+    color: aliceblue;
+}
+.brand{
+    background-color: antiquewhite;
+}
+.brand img{
+    width: 100%;
+    height: 100%;
+}
+.brand h1{
+    text-align: center;
+}
+.about img{
+    width: 100%;
+    height: 100%;
+}
+.about h1{
+    text-align: center;
+}.about p{
+    padding: 15px;
+    text-align: end;
+}
+.para p{
+text-align: start;
+}
+.mission{
+    background-color: aliceblue;
+}
+.mission p{
+    text-align: justify;
+}
+.mission img{
+    width: 100%;
+    height: 100%;
+}
+.Founder img{
+    border-radius: 50%;
+    width: 70%;
+    border: 2px solid;
+}
+.Founder h4{
+    text-align: justify;
+}
+.Founder p{
+    text-align: justify;
+}
+.text p{
+    text-align: justify;
+}
+.Success h1{
+    text-align: center;
+}
+.Success img {
+    border-radius: 60%;
+    width: 90%;
+    border: 2px solid;
+}.Success h4{
+    text-align: center;
+}
+.contact h1{
+    text-align: center;
+    margin-top: 10vh;
+}
+.contact{
+    background-color: #f7f5f2;
+}
+.check h1{
+    text-align: center;
+}
+.check img {
+    height: 100%;
+    box-shadow: grey 2px 2px 2px 2px;
+    border-radius: 90%;
+    width: 80%;
+}
+.thank img{
+    width: 100%;
+    box-shadow: grey 2px 2px 5px 10px; 
+}
+.items{
+    background-color: #fbd3b9c8;
+}
+.items h1{
+    text-align: center;
+}
+.items img{
+    background-color: #b2744c;
+
+}
+.home img{
+    width: 100%;
+    height: 100%;
+}
+.peace h1{
+    text-align: center;
+}
+.peace{
+    background-color: #d4a88b;
+}
+.Gallery h1{
+    text-align: center;
+    margin-top: 10vh;
+}
+.Gallery{
+    background-color: #f7f5f2;
+}
+.blog{
+    width: 100%;
+    height: 100%;
+}
+.blog img{
+    width: 100%;
+    height: 100%;
+}
+
+.product h1{
+   text-align: center;
+}
